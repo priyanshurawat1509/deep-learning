@@ -1,4 +1,4 @@
-<h1>Spring 2022 - Deep Learning: Applications in Engineering</h1>
+<h1>AuE8930 - Deep Learning: Applications in Engineering</h1>
 <h2>Course Information</h2>
 
 ![Course Syllabus Deep Learning in Engineering ApplicationsV01122022 (1)-page-001](https://user-images.githubusercontent.com/83747696/160190369-63d75ebc-5960-44ce-b1e4-5a997cf37939.jpg)
