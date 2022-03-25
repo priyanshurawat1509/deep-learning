@@ -1,6 +1,8 @@
 <h1>Spring 2022 - Deep Learning: Applications in Engineering</h1>
 <h2>Course Information</h2>
+
 ![Course Syllabus Deep Learning in Engineering ApplicationsV01122022 (1)-page-001](https://user-images.githubusercontent.com/83747696/160190369-63d75ebc-5960-44ce-b1e4-5a997cf37939.jpg)
+
 ![Course Syllabus Deep Learning in Engineering ApplicationsV01122022 (1)-page-002](https://user-images.githubusercontent.com/83747696/160190372-750d49ad-cfb3-4509-a464-f94c2d5be783.jpg)
 ![Course Syllabus Deep Learning in Engineering ApplicationsV01122022 (1)-page-003](https://user-images.githubusercontent.com/83747696/160190381-8b70a778-99b8-46b2-9107-398b90ff4a0d.jpg)
 ![Course Syllabus Deep Learning in Engineering ApplicationsV01122022 (1)-page-004](https://user-images.githubusercontent.com/83747696/160190385-fe777c9a-0654-4b19-9a3a-e328cca3e080.jpg)
