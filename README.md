@@ -4,3 +4,5 @@ This repository includes the mini projects for the course in Deep Learning compl
 - Recurrent and Recursive Neural Networks (RNN), 
 - Long Short-Term Memory (LTSM), 
 - Generative Adversarial Networks (GANs)
+
+All projects were completed in Jupyter Notebook in Python 
