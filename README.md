@@ -1,5 +1,5 @@
 This repository includes the mini projects for the <b><u>Deep Learning</b></u> course completed on the following topics :
-- Deep neural networks (DNNs),
+- Deep Neural Networks (DNNs),
 - Convolutional Neural Networks (CNN),
 - Recurrent and Recursive Neural Networks (RNN),
 - Long Short-Term Memory (LTSM),
