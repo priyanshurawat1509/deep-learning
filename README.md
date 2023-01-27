@@ -6,4 +6,4 @@
 - <h4>Generative Adversarial Networks (GANs)</b></h3>
 
 <h4>All projects were done with Python in Jupyter Notebook. </h4>
-Libraries used:`Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
+Libraries used:'Numpy', `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
