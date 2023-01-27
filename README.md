@@ -1,8 +1,9 @@
-This repository includes the mini projects for the course in Deep Learning completed on the following topics : 
+This repository includes the mini projects for the Deep Learning course completed on the following topics : 
 - Deep neural networks (DNNs),
 - Convolutional Neural Networks (CNN), 
 - Recurrent and Recursive Neural Networks (RNN), 
 - Long Short-Term Memory (LTSM), 
 - Generative Adversarial Networks (GANs)
 
-All projects were completed in Jupyter Notebook in Python 
+All projects were completed in Jupyter Notebook.
+Libraries used: `Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
