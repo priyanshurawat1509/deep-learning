@@ -5,4 +5,4 @@ This repository includes the mini projects for the Deep Learning course complete
 - <h4>Long Short-Term Memory (LTSM),</b></h3>
 - <h4>Generative Adversarial Networks (GANs)</b></h3>
 
-<h4>All projects were done with Python in Jupyter Notebook. Libraries used:</h4> `Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` 
+<h4>All projects were done with Python in Jupyter Notebook. Libraries used:`Numpy`, `Tensorflow`, `Matplotlib`, `Pandas`, `Sklearn` </h4> 
