@@ -1,3 +1,5 @@
+# deep-learning
+
 This repository includes the mini projects for the <b><u>Deep Learning</b></u> course completed on the following topics :
 - Deep Neural Networks (DNNs),
 - Convolutional Neural Networks (CNN),
